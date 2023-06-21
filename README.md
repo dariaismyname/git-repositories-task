@@ -11,9 +11,9 @@ NextJS, Typescript, ReactQuery, Axios, Tailwind, React-infinite-scroll-component
 In order to run the project on your device you first need to copy the repository, run it with the IDE and install the dependency packages with the commands:
 ``bash
 npm run dev
-# or
+or
 yarn dev
-# or
+or
 pnpm dev
 ```
 
